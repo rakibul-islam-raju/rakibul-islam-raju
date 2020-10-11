@@ -5,7 +5,6 @@
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
-<a href="https://twitter.com/rakibulislam_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="rakibulislam_" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/rakibul-islam-raju" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="rakibul-islam-raju" height="30" width="40" /></a>
 <a href="https://fb.com/m.rakibul.islam.raju" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="m.rakibul.islam.raju" height="30" width="40" /></a>
 </p>
