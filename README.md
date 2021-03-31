@@ -11,6 +11,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rakibul-islam-raju" alt="rakibul-islam-raju" /></a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rakibul-islam-raju&show_icons=true&locale=en&layout=compact" alt="rakibul-islam-raju" /></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=rakibul-islam-raju&show_icons=true&locale=en&layout=compact" alt="rakibul-islam-raju" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rakibul-islam-raju&show_icons=true&locale=en" alt="rakibul-islam-raju" /></p>
