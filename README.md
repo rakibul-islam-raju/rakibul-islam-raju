@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=rakibul-islam-raju&label=Profile%20views&color=0e75b6&style=flat" alt="rakibul-islam-raju" /> </p>
 <p align="center">
-- 👨‍💻 All of my projects are available [here](https://rakibul-islam-raju.netlify.app)
+- 👨‍💻 All of my projects are available <a href="https://rakibul-islam-raju.netlify.app">here</a>
 </p>
 
 <h3 align="center">Connect with Me</h3>
