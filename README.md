@@ -28,7 +28,7 @@
 
 About me:
 
-- 🔭 I’m currently looking for a full-time job.
+- 🔭 I’m currently working as a Frontend Developer at [VROSTR](https://www.linkedin.com/company/veostr/mycompany/).
 - 👯 I’m looking to collaborate on Django, React
 - 💬 Ask me about anything
 - 📫 How to reach me: Email, Facebook
