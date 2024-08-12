@@ -29,7 +29,7 @@
 
 About me:
 
-- 🔭 I’m currently working as a Frontend Developer at [VEOSTR](https://www.linkedin.com/company/veostr/mycompany/).
+- 🔭 I’m currently working as a Frontend Developer at [GoUpp](https://www.linkedin.com/company/goupp/).
 - 👯 I’m looking to collaborate on Django, React
 - 💬 Ask me about anything
 - 📫 How to reach me: Email, Facebook
