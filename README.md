@@ -21,15 +21,22 @@
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 
+### CSS Frameworks
+
+![ANTD](https://img.shields.io/badge/ant--design-%230170FE.svg?style=for-the-badge&logo=ant-design&logoColor=red)
+![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+
 ### Others
 
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
 
 About me:
 
-- 🔭 I’m currently working as a Frontend Developer at [GoUpp](https://www.linkedin.com/company/goupp/).
+- 🔭 I currently work as a Frontend Developer at [GoUpp](https://www.linkedin.com/company/goupp/).
 - 👯 I’m looking to collaborate on Django, React
 - 💬 Ask me about anything
 - 📫 How to reach me: Email, Facebook
@@ -37,8 +44,7 @@ About me:
 
 <img align="" src="https://github-readme-stats.vercel.app/api/top-langs?username=rakibul-islam-raju&show_icons=true&locale=en&layout=compact&title_color=f97316&text_color=3382ed&icon_color=ffffff&bg_color=22272e&hide_border=true&show_icons=true" 		alt="rakibul-islam-raju" />
 
-<!-- ### 📈 GitHub Stats -->
+### 📈 GitHub Stats
 
-
-<!-- <a href="http://www.github.com/rakibul-islam-raju"><img height="150em" src="https://github-readme-stats.vercel.app/api?username=rakibul-islam-raju&show_icons=true&hide=&count_private=true&title_color=f97316&text_color=3382ed&icon_color=ffffff&bg_color=22272e&hide_border=true&show_icons=true" alt="rakibul-islam-raju's GitHub stats" /></a> <a href="http://www.github.com/rakibul-islam-raju"><img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=rakibul-islam-raju&stroke=3382ed&background=22272e&ring=f97316&fire=f97316&currStreakNum=3382ed&currStreakLabel=f97316&sideNums=3382ed&sideLabels=3382ed&dates=3382ed&hide_border=true" /></a> -->
+<a href="http://www.github.com/rakibul-islam-raju"><img height="150em" src="https://github-readme-stats.vercel.app/api?username=rakibul-islam-raju&show_icons=true&hide=&count_private=true&title_color=f97316&text_color=3382ed&icon_color=ffffff&bg_color=22272e&hide_border=true&show_icons=true" alt="rakibul-islam-raju's GitHub stats" /></a> <a href="http://www.github.com/rakibul-islam-raju"><img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=rakibul-islam-raju&stroke=3382ed&background=22272e&ring=f97316&fire=f97316&currStreakNum=3382ed&currStreakLabel=f97316&sideNums=3382ed&sideLabels=3382ed&dates=3382ed&hide_border=true" /></a>
 
