@@ -36,8 +36,8 @@
 
 About me:
 
-- 🔭 I currently work as a Frontend Developer at [GoUpp](https://www.linkedin.com/company/goupp/).
-- 👯 I’m looking to collaborate on Django, React
+- 🔭 I currently work as a Full-Stack Developer.
+- 👯 I’m looking to collaborate on React, Django, Node.js
 - 💬 Ask me about anything
 - 📫 How to reach me: Email, Facebook
 
